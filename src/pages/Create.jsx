@@ -12,7 +12,7 @@ function Create() {
           </label>
           <input
             type="text"
-            placeholder="Type here"
+            placeholder="Title"
             className="input input-bordered input-primary w-full max-w-xs"
           />
         </div>
@@ -23,7 +23,7 @@ function Create() {
           <div className="flex gap-5 mb-1">
             <input
               type="text"
-              placeholder="Type here"
+              placeholder="Ingredients"
               className="input input-bordered input-primary w-full max-w-xs"
             />
             <button className="btn btn-outline">Add</button>
@@ -38,8 +38,8 @@ function Create() {
             <span className="label-text">Cooking time:</span>
           </label>
           <input
-            type="text"
-            placeholder="Type here"
+            type="number"
+            placeholder="Cooking Time"
             className="input input-bordered input-primary w-full max-w-xs"
           />
         </div>
@@ -48,8 +48,8 @@ function Create() {
             <span className="label-text">Image url:</span>
           </label>
           <input
-            type="text"
-            placeholder="Type here"
+            type="url"
+            placeholder="Image URL"
             className="input input-bordered input-primary w-full max-w-xs"
           />
         </div>
@@ -59,7 +59,7 @@ function Create() {
           </label>
           <input
             type="text"
-            placeholder="Type here"
+            placeholder="mETHOD"
             className="input input-bordered input-primary w-full max-w-xs"
           />
         </div>
