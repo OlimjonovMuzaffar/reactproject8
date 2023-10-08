@@ -1,0 +1,39 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Stew",
+      "ingredients": ["1 Carrot", "1 Leek", "200g Tofu", "300ml Veg stock"],
+      "method": "1.Vegetable Stew recipe with step by step photos. This veg stew is easy to make, lightly spiced, delicate and fragrant stew made with a bevy of mixed vegetables, creamy coconut milk and aromatic spices. A popular stew recipe from the Kerala cuisine suitable for both vegetarians and vegans alike.",
+      "cookingTime": "45 minutes",
+      "img": "https://instantpoteats.com/wp-content/uploads/2020/01/instant-pot-vegetable-stew-4.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Veggie Pizza",
+      "ingredients": [
+        "1 Base",
+        "Tomata pasata",
+        "1 Green pepper",
+        "100g Mushrooms"
+      ],
+      "method": "Hot, cheesy pizza loaded with your favorite veggies is one of the most fun and easy dinners to make at home. With just a few key tips you can create a restaurant-quality crust, and treat yourself to the best homemade pizza that’s completely customizable to your tastes. Plan your next pizza party using my foolproof Pizza recipe, with step-by-step photos for making perfect and best veggie pizza from scratch every time!",
+      "cookingTime": "35 minutes",
+      "img": "https://proprikol.ru/wp-content/uploads/2020/11/kartinki-piczcza-16.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Greek Salad",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "Called horiatiki, this lettuce-free salad made up of tomatoes, cucumber, bell pepper, onion, olives and feta is one of the most popular Greek dishes. It is traditionally served with bread, not pita.",
+      "cookingTime": "35 minutes",
+      "img": "https://static.tildacdn.com/tild6265-3239-4662-b063-656239646562/_.jpg"
+    }
+  ]
+}
